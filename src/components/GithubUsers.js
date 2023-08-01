@@ -50,7 +50,7 @@ const GithubUsers = () => {
                     </div>
                 )}
 
-                <div className="--grid-25 --py">
+                <div className="--grid-40 --py">
                     
                         {/* HANDLING ERROR */}
                         {error ? (<h4 className='--text-light'>Something went wrong.</h4>) : (

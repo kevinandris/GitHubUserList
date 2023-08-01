@@ -87,9 +87,9 @@ section {
   row-gap: 1rem;
   column-gap: 1rem;
 }
-.--grid-25 {
+.--grid-40 {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(24rem, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(40rem, 1fr));
   row-gap: 1rem;
   column-gap: 1rem;
 }
